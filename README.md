@@ -1,29 +1,26 @@
 <div align="center">
 
-<img src="banner.svg" alt="Hugo Lee" width="100%" />
+# Hugo Lee
+
+### I build cinematic web experiences with code
 
 <br/>
 
-# 👇 the actual frontend is here
+[![Portfolio](https://img.shields.io/badge/▶_OPEN_PORTFOLIO_(3D_CINEMATIC)-0a0d12?style=for-the-badge&labelColor=c69a55&color=0a0d12)](https://silverenternal.github.io/cinematic-3d/)
+[![Lab](https://img.shields.io/badge/▶_LAB_(WEBGL_DEMOS)-0a0d12?style=for-the-badge&labelColor=c69a55&color=0a0d12)](https://silverenternal.github.io/cinematic-3d/lab.html)
 
-<br/>
-
-<a href="https://silverenternal.github.io/cinematic-3d/"><img src="https://img.shields.io/badge/▶_OPEN_PORTFOLIO_(3D_CINEMATIC)-0a0d12?style=for-the-badge&labelColor=c69a55&color=0a0d12" alt="Open portfolio" /></a>
-
-<a href="https://silverenternal.github.io/cinematic-3d/lab.html"><img src="https://img.shields.io/badge/▶_LAB_(WEBSL_DEMOS)-0a0d12?style=for-the-badge&labelColor=c69a55&color=0a0d12" alt="Lab" /></a>
-
-<br/><br/>
-
-No badges. No bullet lists. Just three.js, webgl, and shader code that actually runs.
+</div>
 
 <br/>
 
 ---
+
+China Jiliang University · Hangzhou · AI student
+
+<br/>
 
 <sub>
 <a href="mailto:3147264070@qq.com">email</a> ·
 <a href="https://github.com/silverenternal">github</a> ·
 <a href="https://github.com/silverenternal?tab=repositories">repositories</a>
 </sub>
-
-</div>
