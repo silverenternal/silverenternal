@@ -73,7 +73,7 @@
 
 | | Project | What it is |
 | --- | --- | --- |
-| 🎬 | **[cinematic-3d](https://github.com/silverenternal/cinematic-3d)** | See the repository for details. |
+| 🎬 | **[cinematic-3d](https://github.com/silverenternal/cinematic-3d)** | A cinematic 3D web experience — orbital camera, bloom, film grain, 12-chapter timeline. `Three.js · WebGL · GLSL` |
 
 <sub>→ <a href="https://github.com/silverenternal?tab=repositories">view all repositories</a></sub>
 
