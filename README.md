@@ -34,23 +34,23 @@ A small family of crates for building async applications on top of `tokio`, with
 
 <tr>
 <td><a href="https://crates.io/crates/tokitai"><b>tokitai</b></a><br/><sub>facade · runtime composition</sub></td>
-<td><a href="https://crates.io/crates/tokitai"><img src="https://img.shields.io/crates/v/tokitai?style=flat-square&color=0a0d12&labelColor=c69a55" alt="tokitai" /></a></td>
-<td><a href="https://crates.io/crates/tokitai"><img src="https://img.shields.io/crates/d/tokitai?style=flat-square&color=0a0d12&labelColor=c69a55" alt="dl" /></a></td>
-<td><a href="https://docs.rs/tokitai"><img src="https://img.shields.io/docsrs/tokitai?style=flat-square&color=0a0d12&labelColor=c69a55" alt="docs" /></a></td>
+<td><a href="https://crates.io/crates/tokitai"><img src="https://img.shields.io/crates/v/tokitai?style=flat-square&color=0a1530&labelColor=6fbbff" alt="tokitai" /></a></td>
+<td><a href="https://crates.io/crates/tokitai"><img src="https://img.shields.io/crates/d/tokitai?style=flat-square&color=0a1530&labelColor=6fbbff" alt="dl" /></a></td>
+<td><a href="https://docs.rs/tokitai"><img src="https://img.shields.io/docsrs/tokitai?style=flat-square&color=0a1530&labelColor=6fbbff" alt="docs" /></a></td>
 </tr>
 
 <tr>
 <td><a href="https://crates.io/crates/tokitai-core"><b>tokitai-core</b></a><br/><sub>primitives · task model</sub></td>
-<td><a href="https://crates.io/crates/tokitai-core"><img src="https://img.shields.io/crates/v/tokitai-core?style=flat-square&color=0a0d12&labelColor=c69a55" alt="tokitai-core" /></a></td>
-<td><a href="https://crates.io/crates/tokitai-core"><img src="https://img.shields.io/crates/d/tokitai-core?style=flat-square&color=0a0d12&labelColor=c69a55" alt="dl" /></a></td>
-<td><a href="https://docs.rs/tokitai-core"><img src="https://img.shields.io/docsrs/tokitai-core?style=flat-square&color=0a0d12&labelColor=c69a55" alt="docs" /></a></td>
+<td><a href="https://crates.io/crates/tokitai-core"><img src="https://img.shields.io/crates/v/tokitai-core?style=flat-square&color=0a1530&labelColor=6fbbff" alt="tokitai-core" /></a></td>
+<td><a href="https://crates.io/crates/tokitai-core"><img src="https://img.shields.io/crates/d/tokitai-core?style=flat-square&color=0a1530&labelColor=6fbbff" alt="dl" /></a></td>
+<td><a href="https://docs.rs/tokitai-core"><img src="https://img.shields.io/docsrs/tokitai-core?style=flat-square&color=0a1530&labelColor=6fbbff" alt="docs" /></a></td>
 </tr>
 
 <tr>
 <td><a href="https://crates.io/crates/tokitai-macros"><b>tokitai-macros</b></a><br/><sub>proc-macros · declarative DSL</sub></td>
-<td><a href="https://crates.io/crates/tokitai-macros"><img src="https://img.shields.io/crates/v/tokitai-macros?style=flat-square&color=0a0d12&labelColor=c69a55" alt="tokitai-macros" /></a></td>
-<td><a href="https://crates.io/crates/tokitai-macros"><img src="https://img.shields.io/crates/d/tokitai-macros?style=flat-square&color=0a0d12&labelColor=c69a55" alt="dl" /></a></td>
-<td><a href="https://docs.rs/tokitai-macros"><img src="https://img.shields.io/docsrs/tokitai-macros?style=flat-square&color=0a0d12&labelColor=c69a55" alt="docs" /></a></td>
+<td><a href="https://crates.io/crates/tokitai-macros"><img src="https://img.shields.io/crates/v/tokitai-macros?style=flat-square&color=0a1530&labelColor=6fbbff" alt="tokitai-macros" /></a></td>
+<td><a href="https://crates.io/crates/tokitai-macros"><img src="https://img.shields.io/crates/d/tokitai-macros?style=flat-square&color=0a1530&labelColor=6fbbff" alt="dl" /></a></td>
+<td><a href="https://docs.rs/tokitai-macros"><img src="https://img.shields.io/docsrs/tokitai-macros?style=flat-square&color=0a1530&labelColor=6fbbff" alt="docs" /></a></td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@ A small family of crates for building async applications on top of `tokio`, with
 
 <div align="center">
 
-<a href="https://github.com/silverenternal/tokitai"><img src="https://img.shields.io/badge/source-@silverenternal/tokitai-0a0d12?style=for-the-badge&labelColor=c69a55&color=0a0d12&logo=github" alt="source" /></a>
+<a href="https://github.com/silverenternal/tokitai"><img src="https://img.shields.io/badge/source-@silverenternal/tokitai-0a1530?style=for-the-badge&labelColor=6fbbff&color=0a1530&logo=github" alt="source" /></a>
 
 </div>
 
@@ -66,11 +66,7 @@ A small family of crates for building async applications on top of `tokio`, with
 
 ---
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=silverenternal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
+<img src="stats.svg" alt="GitHub stats" width="100%" />
 
 <br/>
 
