@@ -14,7 +14,7 @@
 
 ---
 
-<img src="ascii-hugo.svg" alt="ascii hugo lee" width="100%" />
+<img src="ascii-hugo.svg" alt="hugo lee" width="100%" />
 
 <br/>
 
@@ -70,8 +70,8 @@ A small family of crates for building async applications on top of `tokio`, with
 
 <table>
 <tr>
-<td width="60%" align="center"><img src="ascii-ornament.svg" alt="ascii ornament" width="100%" /></td>
-<td width="40%" align="center"><img src="ascii-rocket.svg" alt="ascii rocket" width="100%" /></td>
+<td width="50%" align="center"><img src="ascii-deps.svg" alt="crate family dependency graph" width="100%" /></td>
+<td width="50%" align="center"><img src="ascii-tokitai.svg" alt="tokitai" width="100%" /></td>
 </tr>
 </table>
 
